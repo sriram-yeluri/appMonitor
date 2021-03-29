@@ -1,0 +1,14 @@
+{
+  "test" : {
+    "appl1" : "url",
+    "app2" : "url"
+  },
+  "acceptance" : {
+    "appl1" : "url",
+    "app2" : "url"
+  },
+  "prod" : {
+    "appl1" : "url",
+    "app2" : "url"
+  }
+}
